@@ -1,0 +1,11 @@
+1) observable
+
+2)stochastic
+
+3)sequential
+
+4)static
+
+5)discreate
+
+6)single agent

@@ -1,0 +1,17 @@
+problem formulation
+
+states : points (cities)
+
+inital state : any random point
+
+successor : going to anycity
+
+goad state : fastest and shortest pass
+
+path cost : 1 per step
+
+
+
+agenttype
+
+goal agent (find shortest pass )
